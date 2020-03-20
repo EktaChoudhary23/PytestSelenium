@@ -22,4 +22,4 @@ Also add Allure commandline path in Global Tools Configuration
 Install plugins in Pycharm explicitly for pytest, selenium and allure
 
 # How to run the code via cmd
-pytest -v -s --alluredir=<path to your report folder> <test_filename.py>
+pytest -v -s --alluredir=/<path to your report folder/> <test_filename.py>
